@@ -1,12 +1,12 @@
 <div class="landing flex items-center justify-center">
   <div class="flex flex-wrap items-center justify-center gap-10">
     
-    <img src="/Images/TKCF - Logo_White.svg" class="w-[420px]" alt="KC Foundation Logo">
+    <img src="/Images/TKCF - Logo_White.svg" class="w-[350px]" alt="KC Foundation Logo">
     
-    <div class="flex flex-col gap-6 text-white w-[420px]">
+    <div class="flex flex-col gap-6 text-white w-[400px] px-[5%]">
 
-      <h1 class="text-3xl font-medium">Website Launching Soon</h1>
-      <p class="text-sm font-extralight">The Kindness Creation Foundation is a compassionate and innovative nonprofit organization dedicated to improving the lives of the less fortunate, particularly children in orphanages and disadvantaged communities.</p>
+      <h1 class="text-2xl font-medium">Website Launching Soon</h1>
+      <p class="text-xs font-extralight">The Kindness Creation Foundation is a compassionate and innovative nonprofit organization dedicated to improving the lives of the less fortunate, particularly children in orphanages and disadvantaged communities.</p>
       
       <div>
         <p class="underline">For more information</p>
@@ -16,7 +16,7 @@
         <p><i class="fa-solid fa-envelope mr-3"></i><a href="mailto:lane@kindnesscreation.org.za" class="hover:underline">lane@kindnesscreation.org.za</a></p>
       </div>
 
-      <p class="text-xs text-white font-extralight">The Kindness Creation Foundation © 2024 | All Rights Reserved</p>
+      <p class="text-[10px] text-white font-extralight">The Kindness Creation Foundation © 2024 | All Rights Reserved</p>
       
 
     </div>

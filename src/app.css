@@ -37,7 +37,8 @@ img {
 
 .landing {
   background-color: #243c7d;
-  min-height: 100vh;
+  height: 100vh;
+  width: 100vw;
 }
 
 @media only screen and (max-width: 767px) {
