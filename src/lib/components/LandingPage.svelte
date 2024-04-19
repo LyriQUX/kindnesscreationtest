@@ -3,7 +3,7 @@
     
     <img src="/Images/TKCF - Logo_White.svg" class="w-[350px]" alt="KC Foundation Logo">
     
-    <div class="flex flex-col gap-6 text-white w-[400px] px-[5%]">
+    <div class="web-info flex flex-col gap-6 text-white text-center w-[400px] px-[5%]">
 
       <h1 class="text-2xl font-medium">Website Launching Soon</h1>
       <p class="text-xs font-extralight">The Kindness Creation Foundation is a compassionate and innovative nonprofit organization dedicated to improving the lives of the less fortunate, particularly children in orphanages and disadvantaged communities.</p>
