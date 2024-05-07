@@ -31,8 +31,27 @@ img {
 }
 
 .hero {
-  background: linear-gradient(#243c7dd8, #243c7d8d), url('/Images/Hero.jpeg') fixed center / cover;
-  min-height: 100vh;
+  background: url('/Images/Hero.jpg') fixed bottom / cover;
+  height: 100dvh;
+}
+
+.about {
+  background: url('/Images/About2.jpg') no-repeat fixed top / cover;
+}
+
+.value {
+  background: url('/Images/About2.jpg') no-repeat fixed top / cover;
+}
+
+.banner-top {
+  background: url('/Images/Banner.jpg') no-repeat fixed bottom / cover;
+}
+
+.banner {
+background-color: #243c7d;
+opacity: 0.8;
+background: radial-gradient(circle, transparent 20%, #243c7d 20%, #243c7d 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #243c7d 20%, #243c7d 80%, transparent 80%, transparent) 25px 25px, linear-gradient(#5b71ae 2px, transparent 2px) 0 -1px, linear-gradient(90deg, #5b71ae 2px, #243c7d 2px) -1px 0;
+background-size: 50px 50px, 50px 50px, 25px 25px, 25px 25px;
 }
 
 .landing {

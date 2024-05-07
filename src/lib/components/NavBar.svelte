@@ -14,7 +14,7 @@
     <nav class:open={isMenuOpen}>
       <ul class="flex flex-col md:flex-row bg-white justify-between items-center gap-[5vh] md:gap-[2vw] py-5 mt-[0.5vh] mb-[4vh] md:m-0 font-medium text-gray-400">
         <li class="hover:text-[#243b7d] hover:underline hover:decoration-[#243b7d] ease-in duration-200"><a href="/" on:click={() => (isMenuOpen = false)}>Home</a></li>
-        <li class="hover:text-[#243b7d] hover:underline hover:decoration-[#243b7d] ease-in duration-200"><a href="/#why-us" on:click={() => (isMenuOpen = false)}>Why Us?</a></li>
+        <li class="hover:text-[#243b7d] hover:underline hover:decoration-[#243b7d] ease-in duration-200"><a href="/#why-us" on:click={() => (isMenuOpen = false)}>About Us</a></li>
         <li class="hover:text-[#243b7d] hover:underline hover:decoration-[#243b7d] ease-in duration-200"><a href="/#team" on:click={() => (isMenuOpen = false)}>Team</a></li>
         <li class="hover:text-[#243b7d] hover:underline hover:decoration-[#243b7d] ease-in duration-200"><a href="/#services" on:click={() => (isMenuOpen = false)}>Services</a></li>
         <li class="hover:text-[#243b7d] hover:underline hover:decoration-[#243b7d] ease-in duration-200"><a href="/#reviews" on:click={() => (isMenuOpen = false)}>Reviews</a></li>

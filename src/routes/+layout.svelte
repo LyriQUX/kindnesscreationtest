@@ -5,7 +5,7 @@
 </script>
 
 <main>
-  <LandingPage />
-  <!-- <NavBar />
-  <slot /> -->
+  <!-- <LandingPage /> -->
+  <NavBar />
+  <slot />
 </main>
